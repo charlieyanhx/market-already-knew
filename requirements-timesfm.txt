@@ -1,0 +1,4 @@
+timesfm[torch]==3.0.0
+pandas>=2.2
+pyarrow>=14
+statsmodels>=0.14
