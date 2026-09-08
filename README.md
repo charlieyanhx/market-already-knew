@@ -3,7 +3,7 @@
 Code, pre-registration, and archived walk-forward results for:
 
 > **The Market Already Knew: A Pre-Registered Falsification of TimesFM-3 on the SPY
-> Implied-Volatility Surface.** Charlie Yan, September 2026. [SSRN LINK]
+> Implied-Volatility Surface.** Charlie Yan, September 2026. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7406218
 
 The study was registered on the model's release day (2026-08-31), before any arm ran;
 [PREREG.md](PREREG.md) is the registration verbatim, including all seven dated
